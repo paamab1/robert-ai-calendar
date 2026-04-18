@@ -1,0 +1,24 @@
+VERIFICACIÓN DE DOMINIO - ROBERT AI CALENDAR
+===============================================
+
+Este archivo demuestra la propiedad del dominio paamab1.github.io
+para la aplicación Robert AI Calendar.
+
+Propietario: Pablo (paamab@gmail.com)
+Aplicación: Robert AI Calendar
+Dominio: paamab1.github.io
+Propósito: Verificación para Google OAuth
+
+Fecha: 18 de abril de 2026
+
+Google Search Console Verification File
+======================================
+
+Para verificar la propiedad del dominio:
+1. Ve a Google Search Console
+2. Agrega la propiedad: paamab1.github.io
+3. Sube este archivo al directorio raíz
+4. Verifica la propiedad
+
+Esta verificación permite a Robert AI Calendar
+acceder a Google Calendar API mediante OAuth 2.0.
